@@ -1,23 +1,12 @@
-async function fetchGallery() {
-  try {
-    const response = await fetch("../data/galleri.json");
-    const gallery = await response.json();
-    return gallery;
-  } catch (error) {
-    console.error("Error fetching or parsing data:", error);
-  }
-}
-const galleryData = await fetchGallery();
+import { galleryTemp } from "./templates.js";
+import data from "./fetchData.js";
+
+const galleryData = await data.fetchGallery();
 
 const app = {};
 
 app.init = () => {
-  const galleryPicContainer = document.querySelector(".galleryPic-container");
-
-  const galleryTemp = (gallery) =>
-    `
-        <img src="${gallery.image}" class="galleryImage">
-    `;
+  let galleryPicContainer = document.querySelector(".galleryPic-container");
 
   const renderGallery = () => {
     galleryData.forEach((gallery) => {
