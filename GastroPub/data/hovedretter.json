@@ -1,0 +1,22 @@
+[
+    {
+        "dish": "Kylling Milanese med spaghetti",
+        "ingredients": "Frisk pasta, kyllingebryst, cherrytomater, basilikum, hvidløg, parmesan.",
+        "price": 156
+    },
+    {
+        "dish": "Lam og kikærter i karry",
+        "ingredients": "Lammebov, gurkemeje, skalotteløg, kikærter, tomater, hønsebouillon, koriander.",
+        "price": 195
+    },
+    {
+        "dish": "Spaghetti carbonara",
+        "ingredients": "linguine, bacon, parmesan, piskefløde.",
+        "price": 145
+    },
+    {
+        "dish": "Peruviansk laks med quinoa",
+        "ingredients": "Avocado, laksefilet, Peruvian Chili, rød quinoa, cherrytomater, forårsløg, koriander.",
+        "price": 210
+    }
+]

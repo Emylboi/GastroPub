@@ -1,0 +1,23 @@
+.kontaktPicTop{
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/About-interior02.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 35vh;
+    background-position-y: 65%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.kontaktPicTop > h1{
+    color: white;
+    font-size: 5rem;
+}
+
+.kontakt{
+    width: 100%;
+    height: auto;
+    background-color: #2E2925;
+    color: white;
+    padding-top: 5vh;
+}

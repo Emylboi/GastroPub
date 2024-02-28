@@ -1,0 +1,53 @@
+.teamPicTop{
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/StaffHeaderFood.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 35vh;
+    background-position-y: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.teamPicTop > h1{
+    color: white;
+    font-size: 5rem;
+}
+
+.team{
+    width: 100%;
+    height: auto;
+    color: white;
+}
+
+.headchef{
+    background-color: #211e1b;
+    padding-top: 5vh;
+}
+
+/* Container of the headchef part */
+.headchef > div{
+    max-width: 1144px;
+    display: flex;
+    margin: 0 auto;
+}
+
+/* Picture of headchef */
+.headchef > div > img{
+    width: 40%;
+}
+
+/* [Text] Chefkok - Bob Vestermark */
+.headchef > div > div > h1{
+    font-size: 3rem;
+}
+
+/* [Text] Paragraph of Chefkok */
+.headchef > div > div > p{
+    font-size: 1.2rem;
+    width: 90%;
+}
+
+.staff{
+    background-color: #2e2925;
+}

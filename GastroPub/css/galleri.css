@@ -1,0 +1,48 @@
+.galleryPicTop {
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(../images/GalleriHeader.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 35vh;
+  background-position-y: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.galleryPicTop > h1 {
+  color: white;
+  font-size: 5rem;
+}
+
+.gallery {
+  width: 100%;
+  height: auto;
+  background-color: #2e2925;
+  color: white;
+  /* padding-top: 5vh; */
+  padding: 8vh 0;
+}
+
+.gallery > h1 {
+  text-align: center;
+  font-size: 5rem;
+}
+
+.gallery-container {
+  max-width: 1144px;
+  margin: 0 auto;
+}
+
+.galleryMain {
+  width: 100%;
+}
+
+.galleryImage {
+  width: 13.98%;
+}
+
+.galleryImage:hover {
+  cursor: pointer;
+  opacity: 0.75;
+}

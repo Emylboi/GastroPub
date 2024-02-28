@@ -1,0 +1,23 @@
+[
+  {
+    "uniqueClass": "gastroPub1",
+    "title": "GastroPub",
+    "text": "Uanset om du skal have en forretningsfrokost, en romantisk middag ved levende lys eller bare en drink efter en travl dag, vil GastroPub altid imødekomme dine behov.",
+    "buttonText": "Om Os",
+    "buttonLink": "om-os.html"
+  },
+  {
+    "uniqueClass": "gastroPub2",
+    "title": "Fantastisk Mad",
+    "text": "Vores retter er tilberedt med friske råvarer fra danske økologiske gårde og egne køkkenhave. Der er kærlighed i hver ret fra kokkens hjerte.",
+    "buttonText": "Menu",
+    "buttonLink": "menu.html"
+  },
+  {
+    "uniqueClass": "gastroPub3",
+    "title": "luksuriøst interiør",
+    "text": "Vores lokaler er indrettet fra det romantiske møde, til det luksuriøse selskab. Hyggelige omgivelser til enhver lejlighed.",
+    "buttonText": "Galleri",
+    "buttonLink": "galleri.html"
+  }
+]

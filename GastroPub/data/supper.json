@@ -1,0 +1,22 @@
+[
+    {
+        "dish": "Kyllinge Nudel Suppe",
+        "ingredients": "Gulerødder, selleri, hvidløg, løg, Kylling, saffron, ingefær.",
+        "price": 109
+    },
+    {
+        "dish": "Russisk Borscht",
+        "ingredients": "Rødbede, tomater, løg, kalvefond, cremefraiche.",
+        "price": 98
+    },
+    {
+        "dish": "Minestrone",
+        "ingredients": "Bønner, løg, selleri, gulerødder, tomat, oregano, timian, kalvefond.",
+        "price": 98
+    },
+    {
+        "dish": "Bouillabaisse",
+        "ingredients": "fisk og skaldyr, løg, hvidløg, persille, timian, fennikel, laurbærblade, appelsinskal.",
+        "price": 126
+    }
+]

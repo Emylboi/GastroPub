@@ -1,0 +1,58 @@
+.aboutUsPicTop{
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/about-interior01.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 35vh;
+    background-position-y: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.aboutUsPicTop > h1{
+    color: white;
+    font-size: 5rem;
+}
+
+.aboutUs{
+    width: 100%;
+    height: 65vh;
+    background-color: #2E2925;
+    color: white;
+    padding-top: 5vh;
+}
+
+.aboutUsContainer{
+    max-width: 1144px;
+    display: flex;
+    flex-flow: column wrap;
+    margin: 0 auto;
+    height: 100%;
+
+}
+
+.aboutUsText{
+    width: 65%;
+    height: 60%;
+    font-size: 1.2rem;
+}
+
+.aboutUsQuote, .aboutUsOwner{
+    width: 65%;
+    height: 10%;
+}
+
+.aboutUsQuote{
+    font-size: 1.5rem;
+}
+
+.aboutUsOwner{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.aboutUsPic1, .aboutUsPic2{
+    width: 30%;
+    margin-bottom: 2vh;
+}

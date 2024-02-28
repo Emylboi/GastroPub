@@ -1,0 +1,22 @@
+[
+    {
+        "dish": "Vilde ris salat",
+        "ingredients": "Vilde ris, citron, romainesalat, haricots verts, løg, oliven, tomater.",
+        "price": 78
+    },
+    {
+        "dish": "Grillet squash & couscous salat",
+        "ingredients": "butternut squash, couscous, løg, babyspinat, tørrede tranebær, pekannødder.",
+        "price": 78
+    },
+    {
+        "dish": "Asparges & Halloumi Salat",
+        "ingredients": "asparges, halloumi, fennikel, rødløg, appelsin.",
+        "price": 78
+    },
+    {
+        "dish": "Fennikel, krabbe og appelsinsalat",
+        "ingredients": "Fennikel, appelsin, mint, avocado, grøn chili, krabbekød, oliven.",
+        "price": 112
+    }
+]
