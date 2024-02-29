@@ -64,14 +64,4 @@ data.fetchReview = async () => {
     }
   }
 
-/* async function fetchReview() {
-    try {
-      const response = await fetch("../data/nyhederReview.json");
-      const review = await response.json();
-      return review;
-    } catch (error) {
-      console.error("Error fetching or parsing data:", error);
-    }
-  } */
-
 export default data;

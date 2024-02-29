@@ -4,7 +4,7 @@ export const template = (stuff) =>
     <section class="gastroPub ${stuff.uniqueClass}">
         <div>
             <h1>${stuff.title}</h1>
-            <p>${stuff.text}</p>
+            <p>${stuff.text}</p >
             <a href="${stuff.buttonLink}"><button>${stuff.buttonText}</button></a>
         </div>
     </section> 
@@ -16,6 +16,7 @@ export const galleryTemp = (gallery) =>
     <img src="${gallery.image}" class="galleryImage">
 `;
 
+/* From Menu */
 export const dishSoup = (soup) =>
 `
     <div class="dish-container">
@@ -52,6 +53,7 @@ export const dishMainCourse = (mainCourse) =>
     <hr>
 `;
 
+/* From Nyheder */
 export const reviewTemp = (review) =>
 `
     <div class="review-container">
